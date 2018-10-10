@@ -1,2 +1,0 @@
-# Alpha
-My first repository
