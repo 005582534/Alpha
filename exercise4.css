@@ -1,0 +1,45 @@
+#himg {
+	margin-bottom: -12px;
+	padding: none;
+	background-color: none;
+}
+
+body {
+	background-color: LightSkyBlue;
+	text-align: center;
+}
+
+h1{
+	margin: 2px;
+	color: #CD1717;
+	font-family: Helvetica;
+	font-size: 50px;
+}
+
+.nametag {
+	margin: none;
+	padding: 5px 0px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Roboto Slab;
+	text-align: center;
+	background-color: #FEE71A;
+	color: #CD1717;
+}
+#himg {
+	background-color: transparent;
+}
+img {
+	background-color: white;
+	margin-bottom: -4px;
+	padding:none;
+}
+
+td {
+	padding: 5px 20px;
+}
+
+table{
+	padding: 15px 10px;
+	background-color: OliveDrab;
+}
